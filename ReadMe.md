@@ -1,4 +1,4 @@
-# Yoma Car Share - QA Automation Assessment
+# Yoma Fleet - QA Automation Assessment
 
 Cypress + TypeScript automation tests for User Registration.
 
